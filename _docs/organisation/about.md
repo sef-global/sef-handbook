@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About SEF
-permalink: /organisation/goals/
 parent: Organisation
 nav_order: 1
 permalink: /organisation/about/
