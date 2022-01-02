@@ -24,8 +24,8 @@ The inability to keep up with change creates a mismatch of education and employa
 
 Lack of infrastructure and access to fulfilling opportunities has led to one of the most prevalent issues faced by Sri Lanka currently and that is the struggle to retain highlighly skilled labour. This is known as Brain Drain.
 
-> ### “One of the biggest under-used opportunities Sri Lanka has is to reverse the brain drain.”
->
+> “One of the biggest under-used opportunities Sri Lanka has is to reverse the brain drain.”
+{: .fs-6 .fw-300 }
 >  ~ Jan Metzger,  Capital Market and Advisory Head - Citi Bank Asia Pacific Banking, Sri Lanka Economic Summit 2019
 
 The World Bank (2011) identified Sri Lanka as one among the top five emigrating countries of tertiary educated persons in South Asia. The stock of emigrants as a percentage of the population in 2005 was estimated as 4.5. Emigration of tertiary-educated from Sri Lanka was the highest (with 27.5%), followed by Afghanistan (13.2%), Pakistan (9.2%), Bangladesh (4.7%) and India (4.2%), among the South Asian countries. The number of physicians who had emigrated from Sri Lanka in 2005 was 1,663 which is 17.4% of physicians trained in the country.
