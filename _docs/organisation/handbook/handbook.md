@@ -23,7 +23,7 @@ At SEF our handbook is extensive and keeping it relevant is an important part of
 1. Teamwork is easier if you can read how other parts of the company work.
 1. Discussing changes is easier if you can read what the current process is.
 1. Communicating change is easier if you can just point to the diff.
-1. Everyone can contribute to it by proposing a change via a merge request.
+1. Everyone can contribute to it by proposing a change via a pull request.
 
 One common concern newcomers to the handbook express is that the strict documentation makes the origanisation more rigid. In fact, writing down our current process in the handbook has the effect of empowering contributors to propose change. As a result, this handbook is far from rigid. You only need to look at the handbook changelog to see the evidence. Every attempt is made to document guidelines and processes in the handbook. However, it is not possible to document every possible situation or scenario that could potentially occur. Just because something is not yet in the handbook does not mean that it is allowed. SEF will review each team member's concern or situation based on local laws to determine the best outcome and then update the handbook accordingly. If you have questions, please discuss with your team lead or contact the Administrative team.
 
@@ -35,7 +35,7 @@ Remember that everything is in draft at SEF and subject to change, this includes
 # More about the handbook
 We've gathered some information about the handbook here, but there's still more elsewhere.
 
-Handbook usage
-
+[Handbook usage](/organisation/handbook/handbook-usage/)
+[Practical Handbook Edits Examples](/organisation/handbook/practical-handbook-edits/)
 
 

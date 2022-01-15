@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Practical Handbook Edits Examples
+title: Practical Handbook Edits
 parent: Handbook
 grand_parent: Organisation
 nav_order: 1
