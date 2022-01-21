@@ -1,35 +1,46 @@
 ---
 sidebar_position: 1
+slug: /
+title: Introduction
 ---
 
-# Tutorial Intro
+# SEF Handbook
 
-Let's discover **Docusaurus in less than 5 minutes**.
+The SEF team handbook is the central repository for how we run the organisation. As part of our value of being transparent the handbook is open to the world, and we welcome feedback. Please make a pull request to suggest improvements or add clarifications. Please use issues to ask questions.
 
-## Getting Started
 
-Get started by **creating a new site**.
+## History of the handbook
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+The handbook started when SEF was a organisation of just twenty people to make sharing information efficient and easy. We knew that future SEF team-members wouldn't be able to see emails about process changes that were being sent before they joined and that most of the people who would eventually join SEF likely hadn't even heard of us yet. The handbook was our way of ensuring that all of our organisation information was accessible to everyone regardless of when they became part of the team.
 
-## Generate a new site
+## Advantages
+At SEF our handbook is extensive and keeping it relevant is an important part of everyone's job. It is a vital part of who we are and how we communicate. We established these processes because we saw these benefits:
 
-Generate a new Docusaurus site using the **classic template**:
+1. Reading is much faster than listening.
+1. Reading is async, you don't have to interrupt someone or wait for them to become available.
+1. Talent Acquisition is easier if people can see what we stand for and how we operate.
+1. Retention is better if people know what they are getting into before they join.
+1. On-boarding is easier if you can find all relevant information spelled out.
+1. Teamwork is easier if you can read how other parts of the company work.
+1. Discussing changes is easier if you can read what the current process is.
+1. Communicating change is easier if you can just point to the diff.
+1. Everyone can contribute to it by proposing a change via a pull request.
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+One common concern newcomers to the handbook express is that the strict documentation makes the origanisation more rigid. In fact, writing down our current process in the handbook has the effect of empowering contributors to propose change. As a result, this handbook is far from rigid. You only need to look at the handbook changelog to see the evidence. Every attempt is made to document guidelines and processes in the handbook. However, it is not possible to document every possible situation or scenario that could potentially occur. Just because something is not yet in the handbook does not mean that it is allowed. SEF will review each team member's concern or situation based on local laws to determine the best outcome and then update the handbook accordingly. If you have questions, please discuss with your team lead or contact the Administrative team.
 
-## Start your site
+## Handbook Interpretation
+The handbook is subject to interpretation. We do our best to be as clear as possible to minimize confusion and/or misinterpretation. We also recognize that we have a global audience and that may bring different interpretations. If you have any questions or need further clarification please check with the content owner of the page. When in doubt please reach out and ask.
 
-Run the development server:
+Remember that everything is in draft at SEF and subject to change, this includes our handbook.
 
-```shell
-cd my-website
+## More about the handbook
+We've gathered some information about the handbook here, but there's still more elsewhere.
 
-npx docusaurus start
-```
+[Handbook usage](/organisation/handbook/handbook-usage/)
 
-Your site starts at `http://localhost:3000`.
+[Practical Handbook Edits Examples](/organisation/handbook/practical-handbook-edits/)
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+
+
+
+
