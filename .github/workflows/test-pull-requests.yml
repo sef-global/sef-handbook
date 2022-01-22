@@ -19,7 +19,7 @@ jobs:
           npm install --frozen-lockfile
           npm run build
       - name: Installing Surge
-        run: npm i surge
+        run: npm i -g surge
       - name: Deploying on Surge
         env:
           SURGE_LOGIN: sustainableedufoundation@gmail.com
