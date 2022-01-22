@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'SEF Handbook',
   tagline: '',
-  url: 'https://sef-global.github.io/sef-handbook/',
+  url: 'https://sef-global.github.io',
   baseUrl: '/sef-handbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
