@@ -167,14 +167,6 @@ to date.
 - Worry only about the organization **per function and result**, not about how the page will look if you embed varying
   types and formats of content.
 
-### Use headings liberally
-
-If a page includes more than two headings (especially if it's larger than a single "screen"), add an automatically
-generated Table of Contents (ToC) by copying `{:toc}` (
-see [this doc](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/#in-page-navigation-with-table-of-contents))
-. Headings should have normal capitalization: don't use ALL CAPS or TitleCase). After a heading, leave one blank line;
-this is not required in the standard, but it is our convention.
-
 ## Editing the handbook
 
 Strongly consider learning how to edit the handbook using git and/or via the web IDE. Please read through the Writing

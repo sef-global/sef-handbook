@@ -40,14 +40,12 @@ the [basics of working with Git and GitHub](https://docs.github.com/en/get-start
    this [guide](https://docs.github.com/en/get-started/quickstart/set-up-git) to installing Git and linking your account
    to Git.
 
-### 3. Installing Ruby and Jekyll
+### 3. Installing Node.js
 
-For detailed install instructions, follow the guide for your operating system.
-
-- [macOS](https://jekyllrb.com/docs/installation/macos/)
-- [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/)
-- [Windows](https://jekyllrb.com/docs/installation/windows/)
-- [Other Linux](https://jekyllrb.com/docs/installation/other-linux/)
+1. Download the installer from [Node.js WebSite](https://nodejs.org/en/download/). (The version should be >= 14 or
+   above)
+2. Run the installer.
+3. Follow the installer steps, agree the license agreement and click the next button.
 
 ### 4. Clone the source of the website
 
@@ -70,29 +68,26 @@ If you prefer using https, then:
 #### 5. Preview website changes locally
 
 1. In a terminal, execute:
-    1. Change to the directory for your site, for example: `cd sites/sef-handbook`
-    1. `bundle exec jekyll serve`
-1. Visit [http://localhost:4000](http://localhost:4000) in your browser.
+   1. Change to the directory for your site, for example: `cd sites/sef-handbook`
+   1. `npm start`
+1. Visit http://localhost:3000 in your browser.
 
 #### 6. Start contributing
 
-Most pages that you might want to edit are written in [markdown](https://www.markdownguide.org/basic-syntax/). Read
-through the Markdown Guide to understand its syntax and create new content. Also, reffer
-to [Just the Docs UI Components](https://pmarsceill.github.io/just-the-docs/docs/ui-components) for additional stylings.
+The pages are located in the `docs` directory. Most pages that you might want to edit are written
+in [markdown](https://www.markdownguide.org/basic-syntax/). Read through the [Docusaurus' Markdown features guide](https://docusaurus.io/docs/markdown-features) to understand its syntax and
+create new content. Follow [Docusaurus' Docs guide](https://docusaurus.io/docs/docs-introduction) for
+more information on creating new pages.
 
 #### 7. Test if all URL links in a page are valid
 
-A quick way to see if there are any invalid links inside a page is the following
+Run `npm run build` command on your terminal.
 
-1. Install
-   the [check-my-links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/)
-   extension in Chrome or the [Broken Link Checker](https://addons.mozilla.org/en-US/firefox/addon/find-broken-links/)
-   addon in Firefox.
-1. Open the page you wish to preview (see previous step).
-1. Click the newly installed extension in the upper right corner of Chrome.
-
-A pop-up window will open and tell you how many links, if any, are invalid. Fix any invalid links and ideally any
-warnings.
+It will tell you how many links, if any, are invalid. Fix any invalid links and ideally any warnings.
 
 All internal links (links leading to other parts of the website) should be relative.
 
+Alternative method:
+1. Install the [check-my-links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/) extension in Chrome or the [Broken Link Checker](https://addons.mozilla.org/en-US/firefox/addon/find-broken-links/) addon in Firefox.
+1. Open the page you wish to preview (see previous step).
+1. Click the newly installed extension in the upper right corner of Chrome.
