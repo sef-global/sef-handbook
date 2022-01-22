@@ -57,9 +57,18 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            label: 'Hive',
+            to: 'https://sef.discourse.group/'
+          },
+          {
+            label: 'Website',
+            to: 'https://sefglobal.org/'
+          },
+          {
+            href: 'https://github.com/sef-global',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
@@ -88,7 +97,32 @@ const config = {
             items: [
               {
                 label: 'Facebook',
-                href: 'https://github.com/sef-global',
+                href: 'https://facebook.com/sustainableeducationfoundation',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/goasksef',
+              },
+              {
+                label: 'Linkedin',
+                href: 'https://lk.linkedin.com/company/sefglobal',
+              },
+            ],
+          },
+          {
+            title: 'Organisation',
+            items: [
+              {
+                label: 'About SEF',
+                to: '/organisation/about',
+              },
+              {
+                label: 'What we do',
+                to: '/organisation/what-we-do',
+              },
+              {
+                label: 'Team',
+                href: 'https://sefglobal.org/team.html',
               },
             ],
           },
@@ -96,12 +130,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: 'https://github.com/sef-global',
+                label: 'Website',
+                href: 'https://sefglobal.org/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Blog',
+                href: 'https://sefglobal.medium.com/',
               },
             ],
           },
