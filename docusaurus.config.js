@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'SEF Handbook',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -38,11 +38,22 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+        switchConfig: {
+          darkIcon: "☾",
+          darkIconStyle: {},
+          lightIcon: "☀️",
+          lightIconStyle: {}
+        }
+      },
       navbar: {
-        title: 'My Site',
+        title: 'SEF Handbook',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'SEF Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
