@@ -140,7 +140,7 @@ In the creation of presentations for evergreen content, please screenshot the ha
 1. The content is integrated with the rest of our processes and shown in context
 1. Many more people will consume the content on a webpage than a presentation because it is easier to search and link
 1. You're helping other organizations and students around the work by giving them an example how we do it
-1. Also see some of the [advantages of using our handbook](/organisation/handbook/about#advantages)
+1. Also see some of the [advantages of using our handbook](/#advantages)
 1. The presentation will look less polished, but the advantages outweigh that concern.
 
 If a synchronous presentation is required, default to sharing your screen and viewing live handbook pages over a slide presentation.
