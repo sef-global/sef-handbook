@@ -1,5 +1,6 @@
 ---
-sidebar_position: 2 title: Practical Handbook Edits
+sidebar_position: 2 
+title: Practical Handbook Edits
 ---
 
 # Practical Handbook Edits Examples
