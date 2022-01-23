@@ -26,6 +26,8 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/sef-global/sef-handbook/edit/main/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true
         },
         blog: false,
         theme: {
