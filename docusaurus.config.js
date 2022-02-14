@@ -148,6 +148,13 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        appId: '05W0OBLFR3',
+        apiKey: 'c812c1040ba338dcb0f09ad608d685c5',
+        indexName: 'sef-handbook',
+        contextualSearch: true,
+        searchParameters: {},
+      }
     }),
 };
 
