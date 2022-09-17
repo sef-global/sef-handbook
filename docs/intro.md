@@ -6,9 +6,19 @@ title: Introduction
 
 # SEF Handbook
 
-The SEF team handbook is the central repository for how we run the organisation. As part of our value of being
-transparent the handbook is open to the world, and we welcome feedback. Please make a pull request to suggest
-improvements or add clarifications. Please use issues to ask questions.
+The name ‘Sustainable Education Foundation’ could be considered self-explanatory, yet the inner workings of this organization
+as well as its’ culture deserve a rundown. The workforce of this non-profit organization is volunteer-driven and full of
+passion for the craft. Primed with the motive of establishing the Sri Lankan education system as the most effective and
+most dynamic education system in the world, this voluntary community contributes something new to the organization every day.
+
+Our community welcomes new volunteers with open arms, and it is of extreme importance that we treat each other with respect
+and courtesy. We consider each contribution to be of equal precedence, regardless of how minute it may look. With the multitude
+of projects to contribute to, this organization is never short of work, and the community strives to reach new heights every day.
+There is always going to be an up and coming project, a new feature to be developed or an improvement to be made with each
+passing day. This community is a family, and we actively try to get to know one another; may it be through ‘Introduce Yourself’
+threads, knowledge-sharing sessions, or standups, we will make everyone feel at home, and when it comes to the contribution,
+everyone is willing to lend a helping hand or point you in the right direction if you face any blockers or if you need any
+further clarifications.
 
 ## History of the handbook
 
