@@ -2,7 +2,7 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-Deployed at: https://sef-global.github.io/sef-handbook/
+Deployed at: https://handbook.sefglobal.org
 
 The SEF team handbook is the central repository for how we run the organisation. As part of our value of being
 transparent the handbook is open to the world, and we welcome feedback. Please make a pull request to suggest
