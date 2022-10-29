@@ -186,6 +186,12 @@ The hierarchy of badges and the requirements are as follows:
   - Will be added to the engineering team as a software engineer
 
 
+## Meeting Links
+
+- General Meetings - https://meet.google.com/hva-ugdf-mrb
+- DEV Team Standup Sessions - https://meet.google.com/mys-fenp-knv
+- Knowledge Sharing Sessions - https://meet.google.com/osh-mkuy-mzi
+
 ## Links to Other Resources
 
 - [How to Contribute to Open Source – Open Source Guides](https://opensource.guide/how-to-contribute/)
