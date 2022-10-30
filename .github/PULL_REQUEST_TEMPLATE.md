@@ -43,4 +43,4 @@ https://pr-{PR_NUMBER}-sef-handbook.surge.sh/
 * [ ] If the changes affect team members, or warrant an announcement in another way, please consider posting an update in [#general](https://sefheadquarters.slack.com/archives/CJ89Y7JAV) channel
 
 
-<!-- This PR template it inspired by Gitlab -->
+<!-- This PR template is inspired by Gitlab -->
