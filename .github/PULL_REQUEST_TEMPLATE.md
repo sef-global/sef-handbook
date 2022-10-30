@@ -1,10 +1,10 @@
 ---
 labels: pending-review
-assignees: 
-	- jayasanka-sack
-	- akshika47 
-	- anjula-sack
-	- Piumal1999
+assignees:
+  - jayasanka-sack
+  - akshika47
+  - anjula-sack
+  - Piumal1999
 ---
 
 
@@ -16,6 +16,12 @@ To suggest a change to the [Handbook](https://handbook.sefglobal.org/), please r
 
 ### Please provide a brief explanation for this change:
 <!-- (If there's a due date for merging this PR, be sure to include it here.) -->
+
+**Preview Link:**
+<!---  This PR will be automatically deployed to surge. -->
+<!---  Once you submit the PR, replace "{PR_NUMBER}" with your PR number. ex: https://pr-11-sef-handbook.surge.sh -->
+<!--- Feel free to modify the link with the exact path -->
+https://pr-{PR_NUMBER}-sef-handbook.surge.sh/
 
 ### Please indicate the types of revisions being suggested for the Handbook (please check all that apply):
 
