@@ -1,13 +1,3 @@
----
-labels: pending-review
-assignees:
-  - jayasanka-sack
-  - akshika47
-  - anjula-sack
-  - Piumal1999
----
-
-
 To suggest a change to the [Handbook](https://handbook.sefglobal.org/), please review the [Handbook Guidlines](https://handbook.sefglobal.org/organisation/handbook/usage#handbook-guidelines) section.
 
 <!-- please list any related epics, issues or PRs here. 
