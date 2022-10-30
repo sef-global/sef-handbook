@@ -189,7 +189,7 @@ The hierarchy of badges and the requirements are as follows:
 ## Meeting Links
 
 - General Meetings (Bi-weekly Sun IST 7pm) - https://meet.google.com/hva-ugdf-mrb
-- Engineering Team Standup Sessions (Weekly Sat IST 7pm) - https://meet.google.com/mys-fenp-knv
+- Engineering Team Standup (Weekly Sat IST 7pm) - https://meet.google.com/mys-fenp-knv
 
 
 ## Links to Other Resources
