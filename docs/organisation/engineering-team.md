@@ -64,9 +64,9 @@ Just make the pull request and wait for the feedback of the reviewer.
 - Take on responsibility early and help to review other contributions. Even though you do not have write access in a repository 
 you can already help in reviewing other commits.
 
-# Development Best Practices at SEF
+## Development Best Practices
 
-## Culture and Communication
+### Culture and Communication
 
 - Please adapt your language to non-native English speakers and be super friendly. We are not used to swearing and will 
 mostly understand words literally. At all times ensure your tone stays appropriate and friendly in the SEF community.
@@ -79,7 +79,7 @@ channels (Wikipedia, StackOverflow) but also do not hesitate to ask questions fr
 - Currently, we use Slack as our communication channel. Join SEF Slack Channel. For more formal large scale communication 
 threads, we use SEF hive.
 
-## Private and Public Chat or Issue Tracker
+### Private and Public Chat or Issue Tracker
 
 Chat is a great way to connect with other contributors, but not all contributors are available all the time (consider time 
 differences and personal schedules). Chat tends to be unstructured and with lots of people in a room, there are often a 
@@ -94,7 +94,7 @@ misunderstood. Private conversations are not transparent. Surely, there are case
 specific deployment questions of projects, but whenever you talk about development, please switch to public chat or open 
 an issue.
 
-## Feature Requests and Bug Reports
+### Feature Requests and Bug Reports
 - Some newcomers are not accustomed to issue trackers and might try to inform developers on the mailing list, chat or even
 write private emails about bugs and features, but the right place to do this is The issue tracker of a project.
 - For any bug or feature, please open an issue in the issue tracker right away and indicate if you want to work on it yourself.
@@ -103,7 +103,7 @@ that has issues, and a screenshot.
 - When you file a bug report on the issue tracker, make sure you add steps to reproduce it. Especially if that bug is a 
 rare occurrence.
 
-## Commits/Pull Requests
+### Commits/Pull Requests
 - All pull requests need to be associated with an issue.
 - All PRs need to be assigned to the person working on them.
 - If an issue cannot be completed in less than a day, it should be broken up into multiple issues.
@@ -129,7 +129,7 @@ smaller changes this is very helpful as the reviewer might not even need to set 
 the reviewers by solving the merge conflicts to speed up the process).
 - Pull Requests should only be merged if at least two contributors reviewed and approved it.
 
-## Scope of Issues and Commits
+### Scope of Issues and Commits
 - Stay focused on the issue and its specifics: Sometimes it is tempting to do more changes in a pull request and simply 
 add a nice little feature after mentioning it in the issue tracker. Please do not do this. Contributors will look at the 
 title of issues usually to check if it is relevant to them. For example, if an issue is about changing a font, do not also 
@@ -139,14 +139,14 @@ you. The same applies to many other areas.
 - Do only the changes in a pull request that are mentioned in the issue. Do not change anything else without ever 
 mentioning it (remember match issues with pull requests).
 
-## Branch Policies
+### Branch Policies
 
 Most SEF Projects have:
 - A development branch (which is the working branch. Please commit to this branch.)
 - A master branch (which is the stable branch). Some projects also keep additional branches.
 - Pull requests should be made to the default branch.
 
-## Documentation
+### Documentation
 
 - Please ensure you provide information about your code and the functioning of your app as part of every code contribution.
 - Add information on technologies and the code into the code itself and into documentation files e.g. into the Readme.MD 
