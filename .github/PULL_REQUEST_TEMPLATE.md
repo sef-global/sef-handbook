@@ -10,8 +10,6 @@ assignees:
 
 To suggest a change to the [Handbook](https://handbook.sefglobal.org/), please review the [Handbook Guidlines](https://handbook.sefglobal.org/organisation/handbook/usage#handbook-guidelines) section.
 
-<!-- Inspired from Gitlab -->
-
 <!-- please list any related epics, issues or PRs here. 
 	This field is optional, check this: https://handbook.sefglobal.org/organisation/handbook/usage#how-to-change-or-define-a-process -->
 ### Related to:
@@ -37,3 +35,6 @@ To suggest a change to the [Handbook](https://handbook.sefglobal.org/), please r
 * [ ] Verified that no confidential data is in this PR
 * [ ] Posted an update in [#handbook](https://sefheadquarters.slack.com/archives/C0376JVK2HF) channel
 * [ ] If the changes affect team members, or warrant an announcement in another way, please consider posting an update in [#general](https://sefheadquarters.slack.com/archives/CJ89Y7JAV) channel
+
+
+<!-- This PR template it inspired by Gitlab -->
