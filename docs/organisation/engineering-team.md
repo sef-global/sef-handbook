@@ -33,7 +33,7 @@ for you to have a Github account of your own. What better to explain how to do t
 Slack has surely made communication in the corporate world better, and it has been no exception for our community as well. 
 Even Though we use hive for major topic discussions, Slack is used by us for quick communication where time is in consideration.
 You can be part of the many group chats available, to raise questions and clear your doubts. Be part of the 
-[workplace](https://sefheadquarters.slack.com/join/shared_invite/zt-1ds9bjtli-ry~ggwf2kSJ_j5src89GBQ#/shared-invite/email)
+[workplace](https://join.slack.com/t/sefheadquarters/shared_invite/zt-1jwub1lpd-RXYAMG46qXRUhOGZ7u_ewg)
 
 ### Creating a hive account
 
