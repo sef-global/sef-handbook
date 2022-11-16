@@ -57,7 +57,7 @@ const config = {
           },
           {
             label: 'Slack',
-            to: 'https://join.slack.com/t/sefheadquarters/shared_invite/zt-1ds9bjtli-ry~ggwf2kSJ_j5src89GBQ'
+            to: 'https://join.slack.com/t/sefheadquarters/shared_invite/zt-1jwub1lpd-RXYAMG46qXRUhOGZ7u_ewg'
           },
           {
             href: 'https://github.com/sef-global',
