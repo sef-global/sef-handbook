@@ -1,7 +1,8 @@
 To suggest a change to the [Handbook](https://handbook.sefglobal.org/), please review the [Handbook Guidlines](https://handbook.sefglobal.org/organisation/handbook/usage#handbook-guidelines) section.
 
 ### Purpose:
-The purpose of this PR is to fix #
+The purpose of this PR is to fix #<issue-number>
+
 <!-- please list any related epics, issues or PRs here. 
 	This field is optional, check this: https://handbook.sefglobal.org/organisation/handbook/usage#how-to-change-or-define-a-process -->
 ### Related to:
