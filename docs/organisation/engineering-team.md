@@ -211,7 +211,6 @@ Although it is not expected from you to strictly adhere to the following points,
   - If you are facing blockers or any issues, keep the team updated
   - Keep discussions public, since every member can chip in their thoughts
 
-
 ## Meeting Links
 
 - General Meetings (Bi-weekly Sun IST 7pm) - https://meet.google.com/hva-ugdf-mrb
