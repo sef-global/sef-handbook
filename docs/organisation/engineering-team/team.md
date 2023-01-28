@@ -196,4 +196,3 @@ The hierarchy of badges and the requirements are as follows:
 - [How to Contribute to Open Source – Open Source Guides](https://opensource.guide/how-to-contribute/)
 - [How to start contributing to Open Source projects – Quora](https://www.quora.com/How-do-I-start-contributing-in-Open-Source-projects)
 - [How to Contribute to Open Source from Linux.com](https://www.linux.com/news/how-contribute-open-source)
-
