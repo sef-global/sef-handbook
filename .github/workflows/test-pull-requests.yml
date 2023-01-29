@@ -1,30 +1,21 @@
-name: Test pull requests and generate preview link
-
+name: PR-Preview-Generator
 on:
   pull_request:
     branches: [main]
 
 jobs:
-  test-deploy:
-    name: Test deployment
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          fetch-depth: 0
-      - uses: actions/setup-node@v2
-        with:
-          node-version: 16.x
-          cache: npm
-      - name: Test build
-        run: |
-          npm install --frozen-lockfile
-          npm run build
+          node-version: 16
       - name: Installing Surge
         run: npm i -g surge
       - name: Deploying on Surge
         env:
-          SURGE_LOGIN: sustainableedufoundation@gmail.com
-          SURGE_TOKEN: 4f75270ec1d0e4d48c5ecc3959f9d888
-          DEPLOY_DOMAIN: https://pr-${{ github.event.number }}-sef-handbook.surge.sh
-        run: surge ./build $DEPLOY_DOMAIN --token $SURGE_TOKEN
+          DEPLOY_DOMAIN: https://pr-${{ github.event.number }}-sef-site.surge.sh
+          SURGE_TOKEN: aadbfcb04e3dae63bb3561ca05f93eb1
+        run: surge ./ $DEPLOY_DOMAIN --token $SURGE_TOKEN
