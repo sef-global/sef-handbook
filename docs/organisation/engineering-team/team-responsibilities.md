@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-## Team Responsibilities
+# Team Responsibilities
 
 Since joining the engineering team takes a considerable amount of effort and going through an evaluation process, continuing to be a part of the team would also require the same effort. Being part of the team is a rare opportunity and it is our responsibility as management to determine whether the efforts you make meet our expectations. The following points will be used to ascertain such efforts:
 
