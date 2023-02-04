@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Team
+title: Being part of the Engineering Team
 ---
 
 # Engineering Team
