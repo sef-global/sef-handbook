@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Being part of the Engineering Team
 ---
 
-# Engineering Team
+# Being part of the Engineering Team
 
 ## About us
 
