@@ -65,9 +65,9 @@ Remember that everything is in draft at SEF and subject to change, this includes
 
 We've gathered some information about the handbook here, but there's still more elsewhere.
 
-[Handbook usage](/organisation/handbook/usage/)
+[Handbook usage](/handbook/usage/)
 
-[Practical Handbook Edits Examples](/organisation/handbook/practical-handbook-edits/)
+[Practical Handbook Edits Examples](/handbook/practical-handbook-edits/)
 
 
 

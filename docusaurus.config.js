@@ -109,11 +109,11 @@ const config = {
             items: [
               {
                 label: 'About SEF',
-                to: '/organisation/about',
+                to: '/about',
               },
               {
                 label: 'What we do',
-                to: '/organisation/what-we-do',
+                to: '/what-we-do',
               },
               {
                 label: 'Team',
