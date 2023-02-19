@@ -14,10 +14,10 @@ We've gathered some information about the handbook here, but there's still more 
 
 [Handbook usage](https://sef-global.github.io/sef-handbook/organisation/handbook/usage/)
 
-[Practical Handbook Edits Examples](https://sef-global.github.io/sef-handbook/organisation/handbook/practical-handbook-edits/)
+[Practical Handbook Edits Examples](https://sef-global.github.io/sef-handbook/handbook/practical-handbook-edits/)
 
 ## Set up the project locally
 
-Follow ["Edit the handbook locally"](https://sef-global.github.io/sef-handbook/organisation/handbook/edit-locally) guide
+Follow ["Edit the handbook locally"](https://sef-global.github.io/sef-handbook/handbook/edit-locally) guide
 to set up the project locally. It is a guide on what you'll need to install and run a local development environment on
 your machine so you can make edits locally. This allows you a better overview and preview when making complex changes.
