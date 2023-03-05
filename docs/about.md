@@ -43,7 +43,7 @@ Lanka in 2005 was 1,663 which is 17.4% of physicians trained in the country.
 The Sustainable Education Foundation (SEF) is a volunteer driven not for profit organisation founded by former Google
 Student Ambassador and alumnus of the University of Moratuwa, Akshika Wijesundara. SEF was founded with the short term
 goal of making the Sri Lankan education system the most effective and most dynamic education system in the world with
-the help of a specialist global network of local and expat Sri Lakans. SEF’s long term goal is to disrupt and
+the help of a specialist global network of local and expat Sri Lankans. SEF’s long term goal is to disrupt and
 democratise the global education system where it is available for everyone, in doing so, the foundation contributes to
 the United Nations’ sustainable development goal of “Quality Education”. You can visit
 our [Facebook](https://www.facebook.com/sustainableeducationfoundation/) page to see our hub of activity and
