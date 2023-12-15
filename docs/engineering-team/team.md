@@ -189,7 +189,10 @@ The hierarchy of badges and the requirements are as follows:
 
 ## Meeting Links
 
-- Engineering Team Standup (Weekly Sat IST 7pm) - https://meet.google.com/mys-fenp-knv
+### Weekly Engineering Team Standup
+
+Join us for our weekly Engineering Team Standup every Saturday at 7:00 pm IST.
+Meeting Link: https://meet.google.com/mys-fenp-knv
 
 ## Links to Other Resources
 
