@@ -1,1 +1,0 @@
-## GSoC - Guidelines for Students
