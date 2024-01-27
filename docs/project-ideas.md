@@ -8,13 +8,46 @@ Sustainable Education Foundation is excited to announce our first-time applicati
 
 If you are new to Sustainable Education Foundation, we recommend going through our [handbook](https://handbook.sefglobal.org/engineering-team/team). 
 
+## Project Ideas
 
-| Project name             | RATING AND SIZE  | PROJECT DESCRIPTION | SKILLS (Required/Preferred)           | Primary Mentor | Secondary Mentor |
-|---------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------|----------------|
-| Program Progress Data visualization for ScholarX | Medium, 175 hours         | We need to get some insights on what’s happening with the program. The best solution to this is to visualize the data we have in a meaningful way. We can integrate this to our existing admin dashboard. With this information we can make better decisions to make the scholarx program better. | React, TypeScript, Node.js | Anjula Samarasinghe | Madhawa Monarawila |
-| Integrated Email Communication System for ScholarX Platform | Medium, 175 hours         | To enhance communication within the ScholarX platform, an integrated email system will be implemented. This will allow program admins to seamlessly contact mentors and mentees directly through the platform, eliminating the need for external email systems. The integration will include features such as composing, sending, and receiving emails, as well as organising and tracking communications for monitoring purposes. | React, TypeScript, Node.js, Email API Integration (e.g., SMTP for sending emails, IMAP for receiving emails) | Mayura Alahakoon | Heshan Jayaneththi |
-| Individual Profile for Mentors/Mentees | Medium, 175 hours         | It would be beneficial to provide ScholarX users (mentors and mentees) with a means to share their ScholarX profiles as a portfolio. This feature would enable them to showcase their activities, including past mentorships (both taken and given), reviews, and other pertinent details such as their background, skills, and experience. A user can function as either a mentor or a mentee, and while most users will fall into only one category, there may be exceptional cases where a user serves in both roles.  To implement this, students can utilize the existing wireframes and UI mockups designed for the relevant profile pages, making improvements as necessary. Additionally, backend changes may be suggested based on specific requirements and optimization needs.           | React, TypeScript, Node.js | Piumal Rathnayake | Kumuditha Udaya |
-| ScholarX Messaging                      | Medium, 175 hours         | The project involves creating a messaging feature for a web application to enhance communication between mentors and mentees in scholarX. The key features expected include a user-friendly chat interface with real-time messaging, support for text messages, and possibly file attachments. The system should implement push notifications or email alerts to notify users of new messages, Additionally, the platform should provide read receipts, and offer mentors the ability to create group messages for their mentees.                                    | React, TypeScript, Node.js |  Kumuditha Udaya |
-| Integrated appointment system for ScholarX Platform             | Medium, 175 hours         | One of the key requirements of the ScholarX program is to understand the interactions between the mentees and the mentors. However since most of the meeting / discussion scheduling happens outside the platform, program admins have to rely on manual feedback collections to monitor aspects like frequency of discussions, discussed topics, etc.                                 | React, TypeScript, Node.js | Ashen Robles | Anjula Samarasinghe |
-|  ScholarX Certificate Generator | Medium, 175 hours        | ScholarX Certificate Generator will address the inefficiencies of the current manual system. The project is designed to streamline and enhance the certification process for the ScholarX program. This platform enables seamless certificate generation for program participants, ensuring a quick and efficient way to validate their achievements. | React, TypeScript, Node.js, Jest | Janith Kariyawasam | Ashen Robles |
-| Recommendation System for ScholarX Platform |  Medium, 175 hours        | Currently, in the ScholarX Platform, mentees can filter mentors by category and find a suited mentor, but we want to implement a more sophisticated recommendation system, which will analyse mentees' responses to questions to identify their interests and then match mentees with mentors based on similar interests, providing a more personalised and effective mentorship experience.| Understanding of machine learning algorithms for analysis, Familiarity with creating web services, and APIs, Python | Madhawa Monarawila | Akshika Wijesundara |
+1. **Program Progress Data Visualization for ScholarX**
+   - *Description:* We need to get some insights on what’s happening with the program. The best solution to this is to visualize the data we have in a meaningful way. We can integrate this to our existing admin dashboard. With this information we can make better decisions to make the ScholarX program better.
+   - *Skills:* React, TypeScript, Node.js
+   - *Mentors:* Anjula Samarasinghe (Primary), Madhawa Monarawila (Secondary)
+   - *Rating and Size:* Medium, 175 hours
+
+2. **Integrated Email Communication System for ScholarX Platform**
+   - *Description:* To enhance communication within the ScholarX platform, an integrated email system will be implemented. This will allow program admins to seamlessly contact mentors and mentees directly through the platform, eliminating the need for external email systems. The integration will include features such as composing, sending, and receiving emails, as well as organizing and tracking communications for monitoring purposes.
+   - *Skills:* React, TypeScript, Node.js, Email API Integration (e.g., SMTP for sending emails, IMAP for receiving emails)
+   - *Mentors:* Mayura Alahakoon (Primary), Heshan Jayaneththi (Secondary)
+   - *Rating and Size:* Medium, 175 hours
+
+3. **Individual Profile for Mentors/Mentees**
+   - *Description:* It would be beneficial to provide ScholarX users (mentors and mentees) with a means to share their ScholarX profiles as a portfolio. This feature would enable them to showcase their activities, including past mentorships (both taken and given), reviews, and other pertinent details such as their background, skills, and experience.
+   - *Skills:* React, TypeScript, Node.js
+   - *Mentors:* Piumal Rathnayake (Primary), Kumuditha Udaya (Secondary)
+   - *Rating and Size:* Medium, 175 hours
+
+4. **ScholarX Messaging**
+   - *Description:* The project involves creating a messaging feature for a web application to enhance communication between mentors and mentees in ScholarX. The key features expected include a user-friendly chat interface with real-time messaging, support for text messages, and possibly file attachments.
+   - *Skills:* React, TypeScript, Node.js
+   - *Mentors:* Kumuditha Udaya (Primary)
+   - *Rating and Size:* Medium, 175 hours
+
+5. **Integrated Appointment System for ScholarX Platform**
+   - *Description:* One of the key requirements of the ScholarX program is to understand the interactions between the mentees and the mentors. However, since most of the meeting/discussion scheduling happens outside the platform, program admins have to rely on manual feedback collections to monitor aspects like frequency of discussions, discussed topics, etc.
+   - *Skills:* React, TypeScript, Node.js
+   - *Mentors:* Ashen Robles (Primary), Anjula Samarasinghe (Secondary)
+   - *Rating and Size:* Medium, 175 hours
+
+6. **ScholarX Certificate Generator**
+   - *Description:* ScholarX Certificate Generator will address the inefficiencies of the current manual system. The project is designed to streamline and enhance the certification process for the ScholarX program. This platform enables seamless certificate generation for program participants, ensuring a quick and efficient way to validate their achievements.
+   - *Skills:* React, TypeScript, Node.js, Jest
+   - *Mentors:* Janith Kariyawasam (Primary), Ashen Robles (Secondary)
+   - *Rating and Size:* Medium, 175 hours
+
+7. **Recommendation System for ScholarX Platform**
+   - *Description:* Currently, in the ScholarX Platform, mentees can filter mentors by category and find a suited mentor, but we want to implement a more sophisticated recommendation system, which will analyze mentees' responses to questions to identify their interests and then match mentees with mentors based on similar interests, providing a more personalized and effective mentorship experience.
+   - *Skills:* Understanding of machine learning algorithms for analysis, Familiarity with creating web services and APIs, Python
+   - *Mentors:* Madhawa Monarawila (Primary), Akshika Wijesundara (Secondary)
+   - *Rating and Size:* Medium, 175 hours
