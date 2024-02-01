@@ -62,7 +62,7 @@ If you are new to Sustainable Education Foundation, we recommend going through o
 ## Guidelines
 - Student's guidelines
    - [GSoC - Guidelines](https://handbook.sefglobal.org/gsoc-contributor-guidance)
-   - GSoC - Proposal Guidelines
+   - [GSoC - Proposal Guidelines](https://handbook.sefglobal.org/gsoc-contributor-guidance#proposal-guidelines)
 
 - Mentor's guidelines
   - Mentor Guide https://google.github.io/gsocguides/mentor/
