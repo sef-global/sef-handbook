@@ -9,42 +9,42 @@ Are you interested in participating in a Google Summer of Code project with SEF?
 ## General Guidelines
 
 #### Before the Application
-1. Familiarize yourself with SEF and the project(s) you're interested in. Refer to the Developer Guide, Getting Started as a Developer, and engage with the community for any queries.
-2. Explore project ideas and ask questions in the GSoC category on SEF Hive.
-3. Actively participate in SEF slack channel and SEF Hive.
-4. Introduce yourself on the introduction thread on SEF Hive.
-5. Contribute to SEF by working on github issues. Select issues from github, work on them, and submit pull requests to the respective repository.
-6. Identify potential issues in SEF projects. Create new github issues for unreported issues.
-7. Increase visibility on SEF Hive and Slack by helping others and engaging in discussions.
-8. Conduct code reviews. Reviewing others' code is essential for learning the SEF code base.
+1. Get acquainted with SEF and your chosen projects by referring to the Developer Guide and Getting Started as a Developer.
+2. Initiate your involvement by asking questions and exploring project ideas in the GSoC category on SEF Hive.
+3. Active participation in the SEF Slack channel and SEF Hive is crucial for community engagement.
+4. Introduce yourself in the dedicated thread on SEF Hive to connect with the community.
+5. Contribute to SEF on GitHub by selecting issues, working on them, and submitting pull requests to the relevant repository.
+6. Identify potential issues within SEF projects and create new GitHub issues for those that haven't been reported.
+7. Boost your presence on SEF Hive and Slack by assisting others and actively participating in discussions.
+8. Sharpen your understanding of the SEF code base by conducting code reviews, an essential part of the learning process.
 
 **Additional Expectations:**
-- Write blogs about SEF or related topics to contribute valuable information to others.
-- Properly document your work in Hive and assist others in building on it.
+- Contribute valuable information by writing blogs about SEF or related topics.
+- Document your work thoroughly on Hive and support others in building upon it.
 
 #### After Being Accepted
-1. Set up a blog for your open source projects, including GSoC. Share the URL on SEF Hive and write weekly posts about planning and project progress during GSoC.
-2. Contact your mentor immediately and establish a regular communication plan. Use slack or discussions on SEF Hive for communication.
-3. CC your backup mentor in communications to keep them informed of your progress.
-4. Review github issues related to your project and work on initial bugs or feature development with guidance from your mentor.
-5. Prepare a detailed project plan with SMART goals and milestones, and publish it on SEF Hive.
+1. Establish a blog for your open source projects, including GSoC, and share the URL on SEF Hive. Provide weekly updates on planning and project progress during GSoC.
+2. Initiate contact with your mentor promptly and set up a regular communication plan using Slack or SEF Hive discussions.
+3. Keep your backup mentor informed of your progress by including them in communications.
+4. Work on initial bugs or feature development related to your project with guidance from your mentor by reviewing GitHub issues.
+5. Develop a detailed project plan with SMART goals and milestones, and share it on SEF Hive.
 
 #### During the Coding Period
-1. Submit a short weekly progress updates.
-2. Write a weekly blog post to share your work publicly.
-3. Commit early and often to align with our open-source community values.
+1. Submit concise weekly progress updates.
+2. Write weekly blog posts to publicly share your work.
+3. Follow the open-source community values by committing early and often.
 4. Prepare mid-term and final project presentation videos for the community.
 
 **Developer Community Expectations:**
-- Conduct all project-related discussions on slack or SEF Hive.
-- Ask questions in a smart way when facing challenges.
-- Participate in the weekly standup calls when your schedule allows.
+- Conduct all project-related discussions on Slack or SEF Hive.
+- Pose questions intelligently when facing challenges.
+- Participate in weekly standup calls whenever your schedule permits.
 
 #### After GSoC
-1. Write a final blog post summarizing your overall experience. Consider cross-posting to the Google Open Source Blog with approval from org admins.
+1. Summarize your overall experience in a final blog post.
 2. Stay involved with your project or other projects based on your schedule.
-3. Monitor SEF Hive for additional questions or feedback about your GSoC project and for other topics of interest.
-4. Consider participating as a mentor for GSoC, if SEF is accepted. Your involvement will inspire secondary school students to use their programming skills in open source projects.
+3. Monitor SEF Hive for additional questions or feedback about your GSoC project and other interesting topics.
+4. Consider participating as a mentor for GSoC, if SEF is accepted, to inspire secondary school students to use their programming skills in open source projects.
 
 ## Proposal Guidelines
 
