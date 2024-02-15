@@ -9,10 +9,10 @@ Are you interested in participating in a Google Summer of Code project with SEF?
 ## General Guidelines
 
 #### Before the Application
-1. Get acquainted with SEF and your chosen projects by referring to the Developer Guide and Getting Started as a Developer.
-2. Initiate your involvement by asking questions and exploring project ideas in the GSoC category on SEF Hive.
+1. Get acquainted with SEF and your chosen projects by referring to the [Getting Started](https://handbook.sefglobal.org/engineering-team/team) as a Developer.
+2. Initiate your involvement by asking questions and exploring project ideas on SEF Hive.
 3. Active participation in the SEF Slack channel and SEF Hive is crucial for community engagement.
-4. Introduce yourself in the dedicated thread on SEF Hive to connect with the community.
+4. Introduce yourself in the [introduction](https://sef.discourse.group/t/welcome-please-introduce-yourself/7?u=anjisvj) thread on SEF Hive to connect with the community.
 5. Contribute to SEF on GitHub by selecting issues, working on them, and submitting pull requests to the relevant repository.
 6. Identify potential issues within SEF projects and create new GitHub issues for those that haven't been reported.
 7. Boost your presence on SEF Hive and Slack by assisting others and actively participating in discussions.
