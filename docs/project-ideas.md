@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# Google Summer of Code 2024 
+# Google Summer of Code 2025 
 
 Sustainable Education Foundation is excited to announce our first-time application to be a mentoring organization for [Google Summer of Code](http://g.co/gsoc) 2024! We are eager to be part of this esteemed program and are looking forward to the potential projects and mentorship opportunities available in 2024. Participating in Google Summer of Code with SEF provides a unique chance to enhance your coding skills while contributing to initiatives that have a positive impact on education in developing countries.
 
