@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Google Summer of Code 2025 
 
-Sustainable Education Foundation is excited to announce our first-time application to be a mentoring organization for [Google Summer of Code](http://g.co/gsoc) 2024! We are eager to be part of this esteemed program and are looking forward to the potential projects and mentorship opportunities available in 2024. Participating in Google Summer of Code with SEF provides a unique chance to enhance your coding skills while contributing to initiatives that have a positive impact on education in developing countries.
+Sustainable Education Foundation is excited to announce our first-time application to be a mentoring organization for [Google Summer of Code](http://g.co/gsoc) 2025! We are eager to be part of this esteemed program and are looking forward to the potential projects and mentorship opportunities available in 2025. Participating in Google Summer of Code with SEF provides a unique chance to enhance your coding skills while contributing to initiatives that have a positive impact on education in developing countries.
 
 If you are new to Sustainable Education Foundation, we recommend going through our [handbook](https://handbook.sefglobal.org/engineering-team/team).
 
@@ -38,21 +38,14 @@ If you are new to Sustainable Education Foundation, we recommend going through o
     - Rating and Size: Medium, 175 hours
     - Outcomes: [Project Link](https://docs.google.com/document/d/1CRxfSprtGpjtS1JtYSKXs0eeBtZrkYN5D6iYSJe6t5Q/edit?usp=sharing)
 
-5. *ScholarX Certificate Generator*
-    - Description: ScholarX Certificate Generator will address the inefficiencies of the current manual system. The project is designed to streamline and enhance the certification process for the ScholarX program. This platform enables seamless certificate generation for program participants, ensuring a quick and efficient way to validate their achievements.
-    - Skills: React, TypeScript, Node.js, Jest
-    - Mentors: [Janith Kariyawasam](https://sef.discourse.group/u/janithlahiru/summary) (Primary), [Ashen Hirantha](https://sef.discourse.group/u/ashen_hirantha/summary) (Secondary)
-    - Rating and Size: Medium, 175 hours
-    - Outcomes: [Project Link](https://docs.google.com/document/d/15vuvIlEC8afsYVjn3Bdi4Pa-qPbuUKRqo7y2R0TYaTg/edit?usp=sharing)
-
-6. *Recommendation System for ScholarX Platform*
+5. *Recommendation System for ScholarX Platform*
     - Description: Currently, in the ScholarX Platform, mentees can filter mentors by category and find a suited mentor, but we want to implement a more sophisticated recommendation system, which will analyze mentees' responses to questions to identify their interests and then match mentees with mentors based on similar interests, providing a more personalized and effective mentorship experience.
     - Skills: Understanding of machine learning algorithms for analysis, Familiarity with creating web services and APIs, Python
     - Mentors: [Madhawa Monarawila](https://sef.discourse.group/u/madhawa/summary) (Primary), [Akshika Wijesundara](https://sef.discourse.group/u/akshika47/summary) (Secondary)
     - Rating and Size: Medium, 175 hours
     - Outcomes: [Project Link](https://docs.google.com/document/d/1ndXqo7LghoYoirI4aGvc7rQNo88NLePaV2BWN_QC1qA/edit?usp=sharing)
 
-7. *Program Progress Data Visualization for ScholarX*
+6. *Program Progress Data Visualization for ScholarX*
     - Description: We need to get some insights on what’s happening with the program. The best solution to this is to visualize the data we have in a meaningful way. We can integrate this to our existing admin dashboard. With this information we can make better decisions to make the ScholarX program better.
     - Skills: React, TypeScript, Node.js
     - Mentors: [Anjula Samarasinghe](https://sef.discourse.group/u/anjisvj/activity) (Primary), [Madhawa Monarawila](https://sef.discourse.group/u/madhawa/summary) (Secondary)
